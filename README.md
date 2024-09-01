@@ -39,5 +39,6 @@ Code Structure
 5. main(): The main function that handles user input, executes the selected algorithm, and displays the results.
 
 Example
+
 Upon running the program, you'll be prompted to choose between Prim's or Kruskal's Algorithm. For instance, if you choose Prim's Algorithm, the program will calculate the MST starting from the "Extraction Site" and display the resulting MST along with its total cost.
 
